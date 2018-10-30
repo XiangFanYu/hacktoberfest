@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Xiang Fan Yu](https://github.com/XiangFanYu)
+- Place: British Columbia, Canada
+- Bio: 1st Year CSC student
+- GitHub: [XiangFanYu](https://github.com/XiangFanYu)
